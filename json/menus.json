@@ -1,0 +1,34 @@
+{
+	"Main_menu":[
+		{
+			"page":"Who",
+			"titre":"Who are we"
+		},
+		{
+			"page":"productions",
+			"titre":"Productions"
+		},
+		{
+			"page":"services",
+			"titre":"Services"
+		},
+		{
+			"page":"clients",
+			"titre":"Our clients"
+		},
+		{
+			"page":"contact",
+			"titre":"Contacts"
+		}
+	],
+	"RS_menu":[
+		{
+			"page":"https://www.facebook.com/modele",
+			"titre":"facebook"
+		},
+		{
+			"page":"https://www.instagram.com/modele/",
+			"titre":"instagram"
+		}
+	]
+}
