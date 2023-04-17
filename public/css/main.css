@@ -6,7 +6,7 @@ h2{
 }
 p{
   font-size: 1em; /* Taille de police de base */
-  max-width: 90em; /* Largeur maximale de 80 caractères */
+  max-width: 70em; /* Largeur maximale de 80 caractères */
   margin-left: auto; /* Centrer le paragraphe horizontalement */
   margin-right: auto;
   margin-top: 10px;
@@ -19,46 +19,12 @@ p::first-letter {
   font-size: 125%; /* Taille de la police */
   margin-left: 0.5em; /* Marge à droite pour décaler */
 }
-/*who*/
- .who{
+ .only-chapter{
   max-width: var(--chapter-maxwidth);
+  max-width: 85%; /* Limite la largeur à 90% du conteneur */
   margin: auto;
  }
-/*end of who*/
 
-
-/*SERVICES*/
-.services{
-  display: flex;
-   flex-direction: column;
-  }
-
-  /*Cards*/
-  .cards {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    max-width: 80%;
-    align-self: center;
-    justify-content: space-around;
-  }
-  
-  .card {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    max-width: var(--chapter-maxwidth);
-    min-width: 150px;
-  }
-  
-  .card img {
-    width: 80px;
-    align-self: center;
-    align-items: baseline;
-  
-  }
-
-  /*End SERVICES*/
   /*PORTFOLIO*/
 /*Player video*/
 #playervideo{
