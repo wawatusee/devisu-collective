@@ -28,7 +28,7 @@
 /*Use this font with this line => font-family: myFirstFont;*/
 @font-face{
     font-family:"myTitleFont";
-    src:url("./fonts/lane.upper.ttf");
+    src:url("./fonts/uni-sans.thin-caps.otf");
 }
 /*Use this font with this line => font-family: myTitleFont;*/
 body{
