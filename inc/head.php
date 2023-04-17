@@ -12,5 +12,4 @@
     <script src="js/menu.js"></script>
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
     <title><?= $titleWebSite[0].$titleWebSite[1]?></title>
-    <!--meta name="google-site-verification" content="QqqriLWjPHaBNuucfOuYUKnDUUZWLZFPXpMfceDDdyM" /-->
 </head>
