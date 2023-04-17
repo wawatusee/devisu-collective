@@ -1,12 +1,14 @@
   /*Header*/
   header{
     background-color: var(--first-color);
+    background-image: url("../img/deco/background-header.jpg");
+    background-size: cover;
     color: var(--main-clear-color);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height:18vh;
+    height:30vh;
   }
   header H1, header p{
     text-align: center;

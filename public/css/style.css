@@ -18,6 +18,7 @@
     --blue-color:#56b4b7;
     --green-color:#87b748;
     --rs-bckgrnd-img:url("../img/deco/logo-rs_30px.png");
+    --chapter-maxwidth:550px;
 }
 /*Fonts*/
 @font-face{
