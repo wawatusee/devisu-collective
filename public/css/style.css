@@ -22,12 +22,12 @@
 /*Fonts*/
 @font-face{
     font-family:'myFirstFont';
-    src:url("./fonts/PoiretOne-Regular.ttf");
+    src:url("./fonts/lane.narrow.ttf");
 }
 /*Use this font with this line => font-family: myFirstFont;*/
 @font-face{
     font-family:"myTitleFont";
-    src:url("./fonts/PoiretOne-Regular.ttf");
+    src:url("./fonts/lane.upper.ttf");
 }
 /*Use this font with this line => font-family: myTitleFont;*/
 body{

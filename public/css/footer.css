@@ -40,7 +40,7 @@ color: var(--main-clear-color);
 text-decoration: underline;
 color: var(--pink-color);
 }
-/*Block  rsMenu*/
+/*Block  rsMenu
 .nav-rs{
     background-color:var(--main-clear-color);
     display: flex;
@@ -71,7 +71,7 @@ color: var(--pink-color);
   .flickr{
   background-position-x:-150px;
   }
-  /*End RSmenu*/
+ End RSmenu*/
   /**********************/
       /* end footerNav*/
   /**********************/

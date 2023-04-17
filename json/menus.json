@@ -13,10 +13,6 @@
 			"titre":"Services"
 		},
 		{
-			"page":"clients",
-			"titre":"Our clients"
-		},
-		{
 			"page":"contact",
 			"titre":"Contacts"
 		}
