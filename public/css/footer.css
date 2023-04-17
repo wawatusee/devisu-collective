@@ -1,7 +1,8 @@
 /*Footer*/
 footer{
     color:var(--main-clear-color);
-    margin-top: 30px;
+    margin-top: 50px;
+   
   }
   footer{
     font-family: "myFirstFont",Times, Times New Roman, serif;
@@ -17,8 +18,8 @@ margin-bottom: 5px ;
 }
 
 #sitemap h2{
-color: white;
-font-family: "myTitleFont";
+color: #72494980;
+margin-top: 40px;
 }
 
 .footerNav{
@@ -31,10 +32,13 @@ margin-bottom: var(--standartspace);
 .navfooterbloc{
 margin-bottom: 15px;
 }
+.navfooterbloc>h2{
+  font-size: 1.1em;
+}
 .navfooterbloc a{
 display: block;
 text-decoration: none;
-color: var(--main-clear-color);
+color: var(--main-dark-color);
 /**/
 }
 .navfooterbloc a:hover{

@@ -8,6 +8,8 @@
   }
   .responsiveMenu{
     font-family: "myTitleFont",Times, Times New Roman, serif;
+    margin-top: 25px;
+    margin-bottom: 25px;
   }
   .responsiveMenu a {
     float: left;

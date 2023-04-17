@@ -1,5 +1,5 @@
 <section class="who">
-<h2>WHO ARE WE</h2>    
+<h2>WHO WE ARE</h2>    
 <p>We are DEVISU. We are a collective of creative companies and freelancers who specialize in producing audiovisual campaigns for both non-profit and for-profit organizations. Our team is made up of talented professionals with diverse backgrounds, skills, and experience in various areas of the audiovisual industry.</p> 
 <p>For the last 5 years we have specialized in creating communication campaigns dedicated to NGOs. Our goal is to Amplifying voices to igniting change!</p> 
 <p>We are proud to have worked with a wide range of organizations such as the European Commission, the European peace building liaison offices (EPLO), the United Nation, the kings baudouin foundation …</p> 

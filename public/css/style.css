@@ -12,13 +12,13 @@
 :root{
     --main-dark-color:#333;
     --main-clear-color:#f5F5F5;
-    --first-color:#A1A1A1;
+    --first-color:#eeeded33;
     --grey-clear-color:#a8a9ad;
     --pink-color:#cc6666;
     --blue-color:#56b4b7;
     --green-color:#87b748;
     --rs-bckgrnd-img:url("../img/deco/logo-rs_30px.png");
-    --chapter-maxwidth:550px;
+    --chapter-maxwidth:600px;
 }
 /*Fonts*/
 @font-face{
