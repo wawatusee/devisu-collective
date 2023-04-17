@@ -4,7 +4,7 @@
 /**********************/
 .responsiveMenu {
     overflow: hidden;
-    background-color: var(--first-color);
+    /*background-color: var(--first-color);*/
   }
   .responsiveMenu{
     font-family: "myTitleFont",Times, Times New Roman, serif;
@@ -12,7 +12,7 @@
   .responsiveMenu a {
     float: left;
     display: block;
-    color: var(--main-clear-color);
+    color: var(--main-dark-color);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -21,7 +21,7 @@
   
   .responsiveMenu a:hover {
     background-color:var(--main-clear-color);
-    color: var(--first-color);
+    color: var(--pink-color);
     text-decoration: underline;
   }
   

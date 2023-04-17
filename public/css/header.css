@@ -22,14 +22,13 @@
   }
   h1>span{
     display: block;
-    font-style: normal;
-    font-weight: lighter;
+    position: relative;
+    left: 60%;
+    bottom: 35%;
     font-size: 0.7em;
-    font-family: "comfortaa",Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "myTitleFont",Verdana, Geneva, Tahoma, sans-serif;
   }
-  @media only screen and (max-width: 600px){
-    .logo{display:none;}
-  }
+
 
   /*End header*/
 /**********************/
