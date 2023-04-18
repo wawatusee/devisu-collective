@@ -44,6 +44,14 @@
                 "poster":"human-build-peace-pascal-eplo-2020.jpg",
                 "duration":2.20,
                 "visible":1
+            },{
+                "title":"Women mediation",
+                "customer":"Eplo",
+                "yearofproduction":"2021",
+                "file":"women-mediation.mp4",
+                "poster":"women-mediation.jpg",
+                "duration":12.15,
+                "visible":1
             },
             {
                 "title":"European Summit",

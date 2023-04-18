@@ -4,7 +4,7 @@
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="container"> 
-                        <a href="#" class="closebtn">×</a>
+                        <a href="#" class="closebtn" onClick="playervideo.pause()">×</a>
                     </div>
                     <div class="container">
                         <video id="playervideo" controls width="640" height="480" poster="img/content/thumbs-videos/mariamateaser.jpg" autoplay muted>
