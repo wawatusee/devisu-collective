@@ -17,11 +17,11 @@ p{
 p::first-letter {
   /* Propriétés de mise en forme pour la première lettre */
   font-size: 125%; /* Taille de la police */
-  margin-left: 0.5em; /* Marge à droite pour décaler */
+  margin-left: 0.5em; /* Marge à gauche pour décaler */
 }
  .only-chapter{
   max-width: var(--chapter-maxwidth);
-  max-width: 85%; /* Limite la largeur à 90% du conteneur */
+  max-width: 85%; /* Limite la largeur à 85% du conteneur */
   margin: auto;
  }
 

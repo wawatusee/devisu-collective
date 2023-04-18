@@ -13,8 +13,8 @@
                 "title":"MARIAMA",
                 "customer":"EPLO",
                 "yearofproduction":"2022",
-                "file":"mariama-with-credits.mp4",
-                "poster":"mariamateaser.jpg",
+                "file":"mariama-final-hd-eng-sub-1-2.mp4",
+                "poster":"mariama.jpg",
                 "duration":20.48,
                 "visible":1
             },
@@ -43,6 +43,15 @@
                 "file":"human-build-peace-pascal-eplo-2020.mp4",
                 "poster":"human-build-peace-pascal-eplo-2020.jpg",
                 "duration":2.20,
+                "visible":1
+            },
+            {
+                "title":"European Summit",
+                "customer":"Europe",
+                "yearofproduction":"2020",
+                "file":"european-summit.mp4",
+                "poster":"european-summit.jpg",
+                "duration":1.36,
                 "visible":1
             },
             {
