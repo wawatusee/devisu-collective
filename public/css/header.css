@@ -1,33 +1,34 @@
   /*Header*/
   header{
     background-color: var(--first-color);
+    background-image: url("../img/deco/background-header.jpg");
+    background-position: 70% 50%;
+    background-size: cover;
     color: var(--main-clear-color);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height:18vh;
-  }
-  header H1, header p{
-    text-align: center;
+    height:45vh;
   }
   header H1{
+    text-align: center;
     font-family: "myTitleFont",Times, Times New Roman, serif;
   }
   .logo{
-    margin:0 8px 0  8px;
-    height: 25px;
+    height: 80%;
+    position: relative;
+    top:10%;
   }
   h1>span{
     display: block;
-    font-style: normal;
-    font-weight: lighter;
+    position: relative;
+    left: 60%;
+    bottom: 35%;
     font-size: 0.7em;
-    font-family: "comfortaa",Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "myTitleFont",Verdana, Geneva, Tahoma, sans-serif;
   }
-  @media only screen and (max-width: 600px){
-    .logo{display:none;}
-  }
+
 
   /*End header*/
 /**********************/

@@ -1,20 +1,16 @@
 {
 	"Main_menu":[
 		{
-			"page":"Who",
-			"titre":"Who are we"
-		},
-		{
 			"page":"productions",
 			"titre":"Productions"
 		},
 		{
-			"page":"services",
-			"titre":"Services"
+			"page":"who",
+			"titre":"Who we are"
 		},
 		{
-			"page":"clients",
-			"titre":"Our clients"
+			"page":"services",
+			"titre":"Services"
 		},
 		{
 			"page":"contact",

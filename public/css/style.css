@@ -10,26 +10,27 @@
 }
 /*Communs Colors images*/
 :root{
-    --main-dark-color:#669999;
+    --main-dark-color:#333;
     --main-clear-color:#f5F5F5;
-    --first-color:#A1A1A1;
+    --first-color:#eeeded33;
     --grey-clear-color:#a8a9ad;
-    --pink-color:#c73237;
+    --pink-color:#cc6666;
     --blue-color:#56b4b7;
     --green-color:#87b748;
     --rs-bckgrnd-img:url("../img/deco/logo-rs_30px.png");
+    --chapter-maxwidth:600px;
 }
 /*Fonts*/
 @font-face{
     font-family:'myFirstFont';
-    src:url("./fonts/PoiretOne-Regular.ttf");
+    src:url("./fonts/OpenSans-Light.ttf");
 }
 /*Use this font with this line => font-family: myFirstFont;*/
 @font-face{
     font-family:"myTitleFont";
-    src:url("./fonts/PoiretOne-Regular.ttf");
+    src:url("./fonts/uni-sans.thin-caps.otf");
 }
 /*Use this font with this line => font-family: myTitleFont;*/
 body{
-    font-family: "myFirstFont";
+    font-family:"myFirstFont";
 }

@@ -1,6 +1,8 @@
 /*Footer*/
 footer{
     color:var(--main-clear-color);
+    margin-top: 50px;
+   
   }
   footer{
     font-family: "myFirstFont",Times, Times New Roman, serif;
@@ -15,9 +17,9 @@ background-color:var(--main-clear-color);
 margin-bottom: 5px ;
 }
 
-#sitemap h3{
-color: white;
-font-family: "myTitleFont";
+#sitemap h2{
+color: #72494980;
+margin-top: 40px;
 }
 
 .footerNav{
@@ -28,19 +30,22 @@ justify-content: space-around;
 margin-bottom: var(--standartspace);
 }
 .navfooterbloc{
-margin-bottom: var(--standartspace);
+margin-bottom: 15px;
+}
+.navfooterbloc>h2{
+  font-size: 1.1em;
 }
 .navfooterbloc a{
 display: block;
 text-decoration: none;
-color: var(--main-clear-color);
+color: var(--main-dark-color);
 /**/
 }
 .navfooterbloc a:hover{
 text-decoration: underline;
 color: var(--pink-color);
 }
-/*Block  rsMenu*/
+/*Block  rsMenu
 .nav-rs{
     background-color:var(--main-clear-color);
     display: flex;
@@ -71,7 +76,7 @@ color: var(--pink-color);
   .flickr{
   background-position-x:-150px;
   }
-  /*End RSmenu*/
+ End RSmenu*/
   /**********************/
       /* end footerNav*/
   /**********************/
