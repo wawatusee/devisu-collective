@@ -1,14 +1,6 @@
 {
         "showcase":[
-            {
-                "title":"MARIAMA-teaser",
-                "customer":"EPLO",
-                "yearofproduction":"2022",
-                "file":"MARIAMA-TEASER-FINAL-FINAL-1.2.mp4",
-                "poster":"mariamateaser.jpg",
-                "duration":0.53,
-                "visible":1
-            },
+
             {
                 "title":"MARIAMA",
                 "customer":"EPLO",
@@ -16,6 +8,15 @@
                 "file":"mariama-final-hd-eng-sub-1-2.mp4",
                 "poster":"mariama.jpg",
                 "duration":20.48,
+                "visible":1
+            },
+            {
+                "title":"MARIAMA-teaser",
+                "customer":"EPLO",
+                "yearofproduction":"2022",
+                "file":"MARIAMA-TEASER-FINAL-FINAL-1.2.mp4",
+                "poster":"mariamateaser.jpg",
+                "duration":0.53,
                 "visible":1
             },
             {
@@ -122,15 +123,6 @@
                 "yearofproduction":"2022",
                 "file":"Tanya-ukrainienne-vews.mp4",
                 "poster":"tanya-ukrainienne-vews.jpg",
-                "duration":2.20,
-                "visible":1
-            },
-            {
-                "title":"Human build peace, Eplo",
-                "customer":"Eplo",
-                "yearofproduction":"2020",
-                "file":"HUMANS-BUILD-PEACE-PAUL-EPLO-2020.mp4",
-                "poster":"HUMANS-BUILD-PEACE-PAUL-EPLO-2020.jpg",
                 "duration":2.20,
                 "visible":1
             },
